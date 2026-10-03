@@ -89,3 +89,8 @@ docker compose down -v     # stop and delete the database
 Set `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD` environment variables to point to a different server (e.g. Neo4j Aura).
 > Queries were syntax-checked by review, not executed in the authoring sandbox (no Neo4j available there). If one errors,
 > `run_queries.py` prints the error and continues with the others.
+
+## Neo4j Database
+<img width="1917" height="1022" alt="Screenshot 2026-10-04 032003" src="https://github.com/user-attachments/assets/49fc16e9-8f0c-4800-985f-8b632803e569" />
+
+<img width="1907" height="1010" alt="Screenshot 2026-10-04 032014" src="https://github.com/user-attachments/assets/581cd5ec-54db-48e3-b295-18929284324c" />
