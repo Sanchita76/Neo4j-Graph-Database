@@ -1,0 +1,401 @@
+movie_id,title,year,runtime,budget_musd
+M0001,The Silent Protocol,1987,106,247.6
+M0002,The Broken Journey,2014,142,236.9
+M0003,The Secret River,2013,100,94.0
+M0004,The Hidden Mirror,1985,105,169.9
+M0005,The Silent Harbor,1997,84,40.9
+M0006,The Midnight Frontier,1992,160,92.8
+M0007,The Midnight Night,1986,114,143.6
+M0008,The Distant Storm,1992,112,189.2
+M0009,The Silent Harbor Reborn,2006,145,36.8
+M0010,The Midnight River,1997,156,21.7
+M0011,The Electric Empire,2018,124,85.1
+M0012,The Silent Journey,2018,137,242.2
+M0013,The Silent Night,1986,111,241.9
+M0014,The Hollow Kingdom,2013,93,89.0
+M0015,The Hidden Kingdom,1999,98,167.9
+M0016,The Frozen Legacy,2020,86,82.6
+M0017,The Electric Code,2017,165,7.2
+M0018,The Broken Protocol,2001,95,131.0
+M0019,The Hidden Harbor,1992,145,34.6
+M0020,The Wild Harbor,2020,118,154.0
+M0021,The Crimson Kingdom,2005,151,82.7
+M0022,The Secret Harbor,2007,174,191.2
+M0023,The Silent Signal,2020,154,31.1
+M0024,The Silent Frontier,2009,136,76.4
+M0025,The Lost Frontier,2004,148,193.8
+M0026,The Last Signal,2008,144,101.4
+M0027,The Last Storm,2006,145,222.3
+M0028,The Wild Empire,2011,81,197.3
+M0029,The Eternal Signal,2023,95,38.0
+M0030,The Broken Horizon,2022,121,37.7
+M0031,The Hollow Legacy,1986,86,56.6
+M0032,The Electric Echo,2016,88,62.2
+M0033,The Wild Protocol,2006,148,218.1
+M0034,The Hollow Storm,2007,110,110.0
+M0035,The Hollow Kingdom III,2008,125,55.7
+M0036,The Wild Kingdom,2010,157,128.5
+M0037,The Burning Horizon,2009,170,23.3
+M0038,The Golden Storm,1990,108,73.6
+M0039,The Midnight Legacy,2007,160,26.2
+M0040,The Hidden Legacy,1987,150,79.1
+M0041,The Frozen Code,2007,175,228.6
+M0042,The Eternal Signal Reborn,1993,142,191.0
+M0043,The Hidden Frontier,2015,110,177.0
+M0044,The Hidden Harbor Origins,1998,94,173.2
+M0045,The Last River,2005,136,118.2
+M0046,The Lost Protocol,2016,135,123.1
+M0047,The Crimson River,1991,172,207.9
+M0048,The Secret Empire,1998,143,106.9
+M0049,The Golden Empire,2013,141,49.3
+M0050,The Secret Storm,1985,136,201.4
+M0051,The Electric Journey,2015,164,162.5
+M0052,The Electric Journey Reborn,2000,152,111.5
+M0053,The Distant Kingdom,2020,138,58.2
+M0054,The Last Harbor,2010,149,44.5
+M0055,The Eternal Harbor,2004,95,177.4
+M0056,The Broken Journey II,2007,150,83.2
+M0057,The Golden Echo,1996,99,139.5
+M0058,The Crimson Legacy,2015,100,173.8
+M0059,The Broken Code,1995,126,182.4
+M0060,The Broken Night,1994,114,97.3
+M0061,The Hidden Garden,2004,123,185.4
+M0062,The Eternal Horizon,2014,131,112.5
+M0063,The Golden River,2004,154,89.7
+M0064,The Silent River,2002,110,176.7
+M0065,The Broken Garden,1989,153,86.6
+M0066,The Broken Garden Reborn,2006,143,247.0
+M0067,The Frozen River,1990,82,40.7
+M0068,The Hollow Echo,2008,146,133.3
+M0069,The Eternal River,2001,157,92.7
+M0070,The Golden Legacy,2007,87,58.6
+M0071,The Wild Code,2005,134,161.4
+M0072,The Distant Kingdom III,2005,167,153.3
+M0073,The Hidden Storm,1994,144,184.5
+M0074,The Midnight Signal,1991,173,6.9
+M0075,The Midnight Night Reborn,2017,94,133.4
+M0076,The Broken Code Reborn,1988,132,197.8
+M0077,The Lost Legacy,2012,120,135.9
+M0078,The Broken Legacy,2020,121,171.8
+M0079,The Frozen Garden,2019,165,57.4
+M0080,The Crimson Journey,2000,166,44.7
+M0081,The Wild Storm,2013,164,23.8
+M0082,The Frozen Legacy Returns,1986,151,51.8
+M0083,The Golden Code,1993,134,239.7
+M0084,The Hidden Code,2022,127,17.7
+M0085,The Silent Protocol Reborn,2021,139,233.9
+M0086,The Frozen Legacy Origins,1992,91,56.7
+M0087,The Hidden Signal,1988,160,38.1
+M0088,The Burning Legacy,2017,133,170.9
+M0089,The Hidden Journey,2006,105,115.2
+M0090,The Secret Harbor III,1998,87,46.7
+M0091,The Midnight Storm,1998,148,209.9
+M0092,The Broken River,2013,117,190.0
+M0093,The Midnight Garden,1997,139,38.9
+M0094,The Golden Storm Origins,2007,82,188.1
+M0095,The Broken Protocol II,2007,104,236.2
+M0096,The Hollow Protocol,2020,94,197.4
+M0097,The Silent Frontier Returns,1994,113,25.3
+M0098,The Lost Journey,1997,116,102.1
+M0099,The Silent Signal Origins,2024,146,29.2
+M0100,The Last Empire,1998,159,193.7
+M0101,The Wild Night,1998,105,231.4
+M0102,The Eternal Empire,2008,132,24.9
+M0103,The Last Garden,2001,109,61.5
+M0104,The Midnight Mirror,2023,134,198.7
+M0105,The Hollow Empire,2003,122,23.8
+M0106,The Crimson Kingdom Returns,2024,130,78.5
+M0107,The Secret Night,2001,165,105.2
+M0108,The Secret Harbor Returns,2017,99,182.8
+M0109,The Broken Legacy III,2022,162,245.6
+M0110,The Wild Echo,2005,100,208.7
+M0111,The Broken Storm,2009,126,240.6
+M0112,The Secret Frontier,2002,94,52.6
+M0113,The Golden Echo Origins,2008,171,229.5
+M0114,The Wild Echo III,1989,150,25.9
+M0115,The Wild River,1994,148,184.4
+M0116,The Electric Legacy,1998,153,182.7
+M0117,The Eternal Kingdom,2004,92,91.2
+M0118,The Broken Empire,2019,139,29.4
+M0119,The Midnight River II,2017,114,107.1
+M0120,The Hidden Signal Origins,2024,138,49.3
+M0121,The Burning Horizon Reborn,1986,88,89.8
+M0122,The Wild Signal,1986,171,114.9
+M0123,The Last Echo,2017,129,53.9
+M0124,The Secret Horizon,1985,91,117.0
+M0125,The Hidden Code Origins,2014,153,147.2
+M0126,The Midnight Horizon,2010,152,197.4
+M0127,The Electric Echo II,1994,139,6.5
+M0128,The Golden Horizon,2020,162,205.7
+M0129,The Last Garden Reborn,2018,125,170.1
+M0130,The Distant Mirror,1997,80,21.6
+M0131,The Burning Harbor,2001,170,35.3
+M0132,The Midnight Journey,2006,80,193.1
+M0133,The Broken Kingdom,2011,146,173.1
+M0134,The Secret Kingdom,2006,112,240.2
+M0135,The Last Frontier,2017,168,219.7
+M0136,The Secret Kingdom II,1998,124,168.3
+M0137,The Hidden Frontier II,1988,129,65.0
+M0138,The Crimson Night,2008,174,64.4
+M0139,The Wild Kingdom Origins,2001,80,14.5
+M0140,The Crimson Kingdom Origins,2013,87,31.3
+M0141,The Secret Protocol,1988,135,132.2
+M0142,The Hollow Mirror,1991,106,71.6
+M0143,The Hidden Journey III,2009,121,185.6
+M0144,The Hollow Night,1997,118,187.7
+M0145,The Distant Code,2024,107,49.7
+M0146,The Crimson Kingdom II,1994,157,203.3
+M0147,The Hidden Mirror II,1995,109,106.9
+M0148,The Burning Garden,2003,102,217.9
+M0149,The Secret River Returns,2000,132,92.8
+M0150,The Electric Legacy III,1999,127,184.3
+M0151,The Electric Garden,2015,154,114.6
+M0152,The Midnight Code,2008,118,162.9
+M0153,The Crimson Kingdom III,2001,171,196.8
+M0154,The Wild Mirror,2003,133,187.4
+M0155,The Distant Night,1997,157,232.4
+M0156,The Hollow Kingdom Reborn,1990,164,119.0
+M0157,The Frozen Empire,1986,109,181.6
+M0158,The Burning Empire,2023,120,24.1
+M0159,The Wild Frontier,2018,119,194.3
+M0160,The Frozen Empire II,2014,91,159.9
+M0161,The Golden Night,2010,169,25.3
+M0162,The Secret Signal,2006,126,32.6
+M0163,The Burning Harbor Origins,1997,173,197.3
+M0164,The Frozen Code Origins,1988,80,216.0
+M0165,The Last Kingdom,1985,166,103.8
+M0166,The Midnight Mirror II,2007,102,212.3
+M0167,The Silent Kingdom,2008,89,154.5
+M0168,The Golden Frontier,2013,133,4.9
+M0169,The Wild Protocol III,2023,87,56.3
+M0170,The Secret River III,1986,163,138.7
+M0171,The Hollow Night Reborn,1998,98,40.0
+M0172,The Midnight River III,2023,102,226.2
+M0173,The Hollow River,1998,149,85.3
+M0174,The Last Storm III,2011,141,210.3
+M0175,The Secret Garden,2010,92,89.8
+M0176,The Secret Signal Reborn,2004,100,139.4
+M0177,The Silent Mirror,2015,136,124.9
+M0178,The Silent Echo,2006,116,205.7
+M0179,The Last Night,2020,150,230.6
+M0180,The Burning Empire II,1988,100,32.8
+M0181,The Wild Code Returns,1992,135,82.7
+M0182,The Hollow Empire Origins,2020,153,5.4
+M0183,The Silent Journey Origins,1997,152,96.4
+M0184,The Frozen River Reborn,2019,142,238.1
+M0185,The Silent Garden,2022,97,27.5
+M0186,The Wild Code Reborn,2017,147,107.8
+M0187,The Lost Empire,2013,141,8.3
+M0188,The Midnight Echo,2001,87,56.8
+M0189,The Crimson Protocol,2020,120,102.5
+M0190,The Wild Legacy,1992,97,125.7
+M0191,The Crimson Journey III,2023,104,76.5
+M0192,The Burning Protocol,1997,166,146.0
+M0193,The Eternal River III,1991,106,233.2
+M0194,The Wild Journey,2020,97,91.0
+M0195,The Last Frontier Origins,2014,149,188.0
+M0196,The Secret Signal Returns,2015,85,57.1
+M0197,The Frozen Garden Origins,2004,89,129.0
+M0198,The Crimson Empire,2003,144,11.8
+M0199,The Golden Kingdom,2014,80,176.0
+M0200,The Golden Empire Reborn,1997,113,230.1
+M0201,The Golden Frontier Origins,1993,164,172.1
+M0202,The Wild River Returns,2011,171,207.2
+M0203,The Lost Protocol II,2009,91,168.5
+M0204,The Eternal Frontier,2006,96,94.7
+M0205,The Burning Echo,1992,160,176.5
+M0206,The Wild Garden,2008,173,164.2
+M0207,The Burning Kingdom,2006,123,119.1
+M0208,The Electric Night,2005,99,243.6
+M0209,The Electric Code III,2008,145,31.6
+M0210,The Eternal Code,1986,154,169.2
+M0211,The Golden Harbor,1992,110,54.8
+M0212,The Midnight Mirror Reborn,2000,128,159.2
+M0213,The Lost Harbor,1990,119,116.5
+M0214,The Hollow Storm Returns,2018,127,245.5
+M0215,The Lost Storm,1990,159,238.9
+M0216,The Silent River III,2019,137,91.5
+M0217,The Distant Frontier,1997,149,44.9
+M0218,The Last Night Returns,2004,118,170.3
+M0219,The Hidden Echo,1989,102,226.6
+M0220,The Wild Garden II,1986,159,180.4
+M0221,The Burning Garden Reborn,2015,158,151.0
+M0222,The Midnight Protocol,1998,136,238.6
+M0223,The Distant Code III,2000,125,143.6
+M0224,The Lost Night,2020,150,151.2
+M0225,The Secret Echo,1994,92,47.4
+M0226,The Last Signal III,2004,160,182.3
+M0227,The Broken Code III,1998,90,65.4
+M0228,The Last Kingdom II,1992,122,187.9
+M0229,The Burning Signal,1989,159,237.1
+M0230,The Last Garden Returns,2012,81,5.3
+M0231,The Hidden Empire,1990,116,12.7
+M0232,The Secret Signal II,1992,146,117.1
+M0233,The Lost Protocol Reborn,1987,163,113.3
+M0234,The Broken Harbor,2004,155,111.1
+M0235,The Midnight Garden II,2020,104,151.9
+M0236,The Last Protocol,2012,88,143.9
+M0237,The Lost Garden,1991,146,124.9
+M0238,The Eternal Night,2020,162,33.7
+M0239,The Last River Origins,2018,167,106.1
+M0240,The Eternal Legacy,1994,145,194.8
+M0241,The Frozen Storm,2023,127,246.0
+M0242,The Hidden Kingdom Returns,2003,118,22.4
+M0243,The Silent Protocol Origins,2011,154,167.4
+M0244,The Hidden Legacy III,2019,139,67.9
+M0245,The Broken Mirror,2001,170,186.4
+M0246,The Eternal Frontier Returns,1997,122,249.2
+M0247,The Silent Frontier Origins,2017,91,104.6
+M0248,The Frozen Empire Reborn,2012,105,56.9
+M0249,The Secret Mirror,1985,129,157.8
+M0250,The Distant Storm II,2023,133,166.9
+M0251,The Broken Mirror Returns,2019,110,232.2
+M0252,The Midnight Legacy III,2018,157,192.9
+M0253,The Crimson Horizon,2010,150,171.0
+M0254,The Last Harbor Reborn,1994,142,205.5
+M0255,The Crimson Mirror,2010,167,38.0
+M0256,The Silent Storm,2005,92,185.7
+M0257,The Midnight Harbor,1988,132,157.2
+M0258,The Burning Signal Returns,2003,174,31.1
+M0259,The Secret Protocol III,2017,169,192.6
+M0260,The Burning Mirror,2013,139,73.4
+M0261,The Eternal Signal II,2014,132,182.7
+M0262,The Midnight Garden Returns,2018,94,146.6
+M0263,The Distant Code II,1995,87,87.8
+M0264,The Hidden Storm Returns,1989,98,139.2
+M0265,The Hollow Journey,1993,156,179.3
+M0266,The Silent Harbor Origins,2008,118,125.8
+M0267,The Electric Code Origins,1987,140,193.3
+M0268,The Burning Legacy Returns,1986,92,75.6
+M0269,The Burning Mirror Returns,1985,108,83.9
+M0270,The Last Journey,2006,95,128.0
+M0271,The Distant Mirror III,2000,113,152.9
+M0272,The Distant Journey,1988,104,166.9
+M0273,The Hidden River,1991,146,156.5
+M0274,The Eternal Code Reborn,2017,95,172.9
+M0275,The Broken Storm Origins,2014,140,69.0
+M0276,The Electric Code II,1990,147,176.6
+M0277,The Eternal Kingdom III,1986,161,166.9
+M0278,The Hidden Frontier Origins,1996,98,194.8
+M0279,The Crimson Code,1993,82,24.9
+M0280,The Eternal Signal Returns,1998,98,139.6
+M0281,The Lost Horizon,2016,153,189.7
+M0282,The Wild Storm Reborn,1990,136,6.2
+M0283,The Broken Kingdom III,2013,112,206.7
+M0284,The Golden Harbor Reborn,2015,158,34.3
+M0285,The Crimson Mirror II,2005,157,6.7
+M0286,The Lost Echo,2013,172,40.7
+M0287,The Electric Echo III,2018,122,171.1
+M0288,The Electric River,1989,113,24.7
+M0289,The Lost Garden Reborn,2012,104,62.1
+M0290,The Lost Echo Reborn,1990,109,246.2
+M0291,The Crimson Protocol Reborn,1996,83,62.0
+M0292,The Burning Protocol Reborn,1995,132,162.9
+M0293,The Secret Journey,1990,147,83.8
+M0294,The Electric Echo Returns,1988,98,187.6
+M0295,The Broken Journey Reborn,2010,167,215.6
+M0296,The Burning River,2011,151,135.5
+M0297,The Secret Frontier Returns,1985,109,170.7
+M0298,The Hidden Horizon,2006,141,179.0
+M0299,The Frozen Kingdom,2001,163,113.0
+M0300,The Hidden Signal III,2000,108,61.6
+M0301,The Crimson Frontier,2014,139,214.5
+M0302,The Last Mirror,1985,154,89.6
+M0303,The Frozen Kingdom Reborn,1991,80,94.6
+M0304,The Secret Echo II,2007,133,8.1
+M0305,The Last Mirror II,2019,169,65.2
+M0306,The Eternal Garden,1986,149,135.2
+M0307,The Hidden Echo Origins,2022,166,220.6
+M0308,The Last Kingdom III,1991,136,147.0
+M0309,The Last Protocol Origins,2020,143,28.1
+M0310,The Distant River,2014,116,138.4
+M0311,The Golden Storm II,2015,103,186.7
+M0312,The Eternal Journey,2011,121,240.1
+M0313,The Last Horizon,2009,147,209.2
+M0314,The Silent Storm Returns,2007,82,18.8
+M0315,The Last Mirror Reborn,1985,168,245.8
+M0316,The Secret Empire Returns,2012,165,33.8
+M0317,The Burning Empire Returns,2009,153,58.9
+M0318,The Midnight Signal Origins,2000,114,87.7
+M0319,The Wild Horizon,2019,173,33.4
+M0320,The Secret Code,2015,80,204.0
+M0321,The Midnight Garden Origins,2014,164,52.9
+M0322,The Secret Echo III,2001,131,144.4
+M0323,The Hidden Night,2018,169,188.6
+M0324,The Golden Kingdom II,2022,147,6.4
+M0325,The Crimson Empire Returns,1998,107,42.8
+M0326,The Distant Journey Reborn,1986,163,118.6
+M0327,The Hidden Harbor II,2020,91,242.6
+M0328,The Secret Night Reborn,2013,154,144.7
+M0329,The Wild Signal Origins,2003,128,229.7
+M0330,The Distant Garden,2011,144,196.2
+M0331,The Broken River III,2021,143,216.1
+M0332,The Lost River,2000,162,36.0
+M0333,The Midnight Legacy Returns,2013,99,65.6
+M0334,The Silent Frontier II,1989,90,107.0
+M0335,The Last Empire Reborn,1993,149,128.1
+M0336,The Last Frontier III,2023,142,31.3
+M0337,The Crimson Code Reborn,2011,144,130.3
+M0338,The Wild Frontier II,2022,110,19.3
+M0339,The Lost Mirror,2019,156,125.6
+M0340,The Frozen Echo,1993,118,225.7
+M0341,The Last Protocol III,2018,112,214.9
+M0342,The Eternal Garden Reborn,1986,145,137.7
+M0343,The Broken Empire Origins,2013,146,209.2
+M0344,The Electric Mirror,1994,103,216.7
+M0345,The Secret Journey Origins,1990,121,176.6
+M0346,The Crimson River Returns,2015,126,165.2
+M0347,The Electric Frontier,1998,146,146.8
+M0348,The Wild Legacy II,2001,145,227.2
+M0349,The Wild Journey Reborn,1989,153,172.0
+M0350,The Distant Echo,1999,165,17.1
+M0351,The Broken Kingdom II,1998,129,246.6
+M0352,The Eternal Empire Returns,2020,145,185.2
+M0353,The Frozen Frontier,1997,117,121.4
+M0354,The Hollow Echo Reborn,2015,98,53.0
+M0355,The Lost Signal,1991,139,109.9
+M0356,The Electric Code Returns,2019,148,31.9
+M0357,The Wild River Reborn,1996,164,188.9
+M0358,The Hollow Garden,2008,140,236.6
+M0359,The Lost Horizon III,1993,88,172.4
+M0360,The Frozen Signal,1993,134,146.1
+M0361,The Golden Night Origins,2018,163,52.4
+M0362,The Last Frontier Returns,2010,170,140.2
+M0363,The Crimson Horizon Origins,1986,101,57.2
+M0364,The Last Legacy,1989,155,146.1
+M0365,The Secret Journey Reborn,2022,151,150.8
+M0366,The Hollow Legacy Returns,2012,163,210.0
+M0367,The Wild Protocol Reborn,2011,139,48.3
+M0368,The Golden River Returns,2014,105,121.0
+M0369,The Midnight Frontier Origins,2015,126,214.7
+M0370,The Frozen River Returns,1997,136,140.6
+M0371,The Crimson River Origins,1996,90,176.5
+M0372,The Secret Echo Origins,1989,147,177.7
+M0373,The Golden Empire II,1995,104,188.5
+M0374,The Golden River Origins,1989,110,142.1
+M0375,The Golden Journey,2021,126,23.7
+M0376,The Distant Frontier Reborn,1989,145,40.5
+M0377,The Distant Frontier Returns,2017,151,156.4
+M0378,The Broken Code Origins,2010,121,144.2
+M0379,The Burning Signal III,2007,139,17.2
+M0380,The Wild Harbor Reborn,2007,167,4.7
+M0381,The Frozen Kingdom III,2005,174,110.8
+M0382,The Broken Legacy Reborn,2023,113,74.6
+M0383,The Distant Echo Reborn,2023,130,82.9
+M0384,The Burning Storm,2016,88,211.3
+M0385,The Distant Kingdom Reborn,2004,94,205.4
+M0386,The Electric Night Returns,2016,109,101.2
+M0387,The Lost Echo III,2018,107,115.5
+M0388,The Burning Journey,1998,142,240.2
+M0389,The Wild Harbor Origins,2010,144,192.1
+M0390,The Frozen Echo II,1998,171,219.8
+M0391,The Hidden Garden III,1995,103,63.9
+M0392,The Hidden Garden Origins,2024,118,26.5
+M0393,The Last Night III,1987,155,117.7
+M0394,The Silent River Reborn,2008,146,34.0
+M0395,The Burning Code,2014,108,211.7
+M0396,The Wild Protocol II,2021,103,102.4
+M0397,The Silent Mirror Reborn,1989,116,105.9
+M0398,The Electric Horizon,1990,133,17.1
+M0399,The Silent Protocol III,1997,131,12.2
+M0400,The Hollow Echo Origins,2004,147,139.0
